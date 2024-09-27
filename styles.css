@@ -1,13 +1,8 @@
 nav{
     background-color: #007a56;
 }
-.nav .nav-link{
-    color: #fff;
-    
-}
 nav img{
-    width: 100px;
-
+    width: 90px;
 }
 .navbar-toggler-icon{
     color: #fff;
@@ -15,6 +10,13 @@ nav img{
 
 nav button img{
     width: 60px;
+}
+nav .btn{
+    color: #007a56;
+}
+
+nav .btn:hover, .btn:focus, .btn:active{
+    color: #007a56;
 }
 
 .nav-link{
