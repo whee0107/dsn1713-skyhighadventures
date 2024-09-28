@@ -1,8 +1,15 @@
+#support{
+    color: #007a56;
+}
+#support a{
+    color: #007a56;
+}
 nav{
     background-color: #007a56;
+    height: 75px;
 }
 nav img{
-    width: 90px;
+    width: 60px;
 }
 .navbar-toggler-icon{
     color: #fff;
