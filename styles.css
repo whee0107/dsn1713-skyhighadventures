@@ -9,7 +9,7 @@ nav{
     height: 75px;
 }
 nav img{
-    width: 60px;
+    width: 55px;
 }
 .navbar-toggler-icon{
     color: #fff;
@@ -29,3 +29,8 @@ nav .btn:hover, .btn:focus, .btn:active{
 .nav-link{
     color: #fff;
 }
+
+.container-fluid{
+    background-color: #007a56;
+}
+
