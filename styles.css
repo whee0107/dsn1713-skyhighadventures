@@ -18,11 +18,11 @@ nav img{
 nav button img{
     width: 60px;
 }
-nav .btn{
+#btn-primary {
     color: #007a56;
 }
 
-nav .btn:hover, .btn:focus, .btn:active{
+#btn-primary:hover, .btn:focus, .btn:active{
     color: #007a56;
 }
 
@@ -32,5 +32,9 @@ nav .btn:hover, .btn:focus, .btn:active{
 
 .container-fluid{
     background-color: #007a56;
+}
+
+#hero{
+    color: #fff;
 }
 
