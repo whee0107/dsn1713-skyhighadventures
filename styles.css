@@ -26,6 +26,9 @@ nav button img{
     color: #007a56;
 }
 
+#btn-secondary:hover, .btn:focus, .btn:active{
+    color: #007a56;
+}
 .nav-link{
     color: #fff;
 }
